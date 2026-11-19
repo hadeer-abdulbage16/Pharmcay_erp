@@ -1,0 +1,50 @@
+  .plabel {
+      font-weight: bold;
+      padding-bottom: 1px;
+  }
+
+  p {
+      margin-top: 0;
+      margin-bottom: 1px;
+  }
+
+  .menu-list .col {
+      margin-bottom: 50px;
+  }
+
+  .report_menu {
+      list-style: none;
+      padding-left: 0px;
+  }
+
+  .report_menu li {
+      border-bottom: dotted 1px;
+      border-bottom-color: #ced4da;
+      padding: 6px 5px;
+
+  }
+
+  .report_menu li:hover {
+      background: #f7f7f7;
+      transform: scale(1.01);
+      transition: transform 50ms ease-in-out;
+  }
+
+  .report_menu span {
+      color: #ced4da;
+      /* display:none; */
+  }
+
+  .report_menu a {
+      color: #3693f5 !important;
+      text-decoration: none;
+      background-color: transparent;
+      cursor: pointer;
+  }
+
+  .badge-new {
+      color: darkslategrey !important;
+      font-size: 12px;
+      font-weight: 500;
+      background: #e4e4e4;
+  }
